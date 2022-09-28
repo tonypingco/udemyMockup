@@ -1,6 +1,6 @@
 # SCSS
 
-![main](https://raw.githubusercontent.com/tony-sn/udemyMockup/main/img/UdemyMockupThumbnail.png)
+![main](https://raw.githubusercontent.com/tonypingco/udemyMockup/main/img/UdemyMockupThumbnail.png)
 
 ## About SCSS Coding
 
